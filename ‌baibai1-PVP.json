@@ -6,7 +6,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 1
-    }，
+    },
     {
         "id": "HD(TT)",
         "name": "HD(TT)",
@@ -14,7 +14,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 2
-    }，
+    },
     {
         "id": "HD(SN)",
         "name": "HD(SN)",
@@ -22,7 +22,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 3
-    }，
+    },
     {
         "id": "HD(MD)",
         "name": "HD(MD)",
@@ -30,7 +30,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 4
-    }，
+    },
     {
         "id": "HD(FF)",
         "name": "HD(FF)",
@@ -38,7 +38,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 5
-    }，
+    },
     {
         "id": "HD(BF)",
         "name": "HD(BF)",
@@ -46,7 +46,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 6
-    }，
+    },
     {
         "id": "HD(LY)",
         "name": "HD(LY)",
@@ -54,7 +54,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 7
-    }，
+    },
     {
         "id": "HD(OK)",
         "name": "HD(OK)",
@@ -62,7 +62,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 8
-    }，
+    },
     {
         "id": "feifan",
         "name": "非凡资源",
@@ -70,7 +70,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 9
-    }，
+    },
     {
         "id": "zuida",
         "name": "最大资源",
@@ -86,7 +86,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 11
-    }，
+    },
     {
         "id": "baofeng"，
         "name": "暴风资源",
@@ -94,7 +94,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 12
-    }，
+    },
     {
         "id": "jisu",
         "name": "极速资源",
@@ -102,7 +102,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 13
-    }，
+    },
     {
         "id": "tianya",
         "name": "天涯资源",
@@ -174,7 +174,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 22
-    }，
+    },
     {
         "id": "xinlang",
         "name": "新浪资源",
@@ -302,7 +302,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 40
-    }，
+    },
     {
         "id": "zuidame",
         "name": "最大点播",
@@ -536,5 +536,4 @@
         "priority": 69
     }
 ]
-
 
