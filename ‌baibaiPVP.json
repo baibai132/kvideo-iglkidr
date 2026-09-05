@@ -1,0 +1,74 @@
+[
+    {
+        "id": "HD(LZ)",
+        "name": "HD(LZ)",
+        "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1
+    },
+    {
+        "id": "HD(TT)",
+        "name": "HD(TT)",
+        "baseUrl": "https://caiji.dyttzyapi.com/api.php/provide/vod/at/json/",
+        "group": "normal",
+        "enabled": true,
+        "priority": 2
+    },
+    {
+        "id": "HD(SN)",
+        "name": "HD(SN)",
+        "baseUrl": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+        "group": "normal",
+        "enabled": true,
+        "priority": 3
+    },
+    {
+        "id": "HD(MD)",
+        "name": "HD(MD)",
+        "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
+        "group": "normal",
+        "enabled": true,
+        "priority": 4
+    },
+    {
+        "id": "HD(FF)",
+        "name": "HD(FF)",
+        "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod/",
+        "group": "normal",
+        "enabled": true,
+        "priority": 5
+    },
+    {
+        "id": "HD(DB)",
+        "name": "HD(DB)",
+        "baseUrl": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+        "group": "normal",
+        "enabled": true,
+        "priority": 6
+    },
+    {
+        "id": "HD(BF)",
+        "name": "HD(BF)",
+        "baseUrl": "https://bfzyapi.com/api.php/provide/vod/",
+        "group": "normal",
+        "enabled": true,
+        "priority": 7
+    },
+    {
+        "id": "HD(LY)",
+        "name": "HD(LY)",
+        "baseUrl": "https://360zy.com/api.php/provide/vod/at/json",
+        "group": "normal",
+        "enabled": true,
+        "priority": 8
+    },
+    {
+        "id": "HD(OK)",
+        "name": "HD(OK)",
+        "baseUrl": "https://api.okzyw.net/api.php/provide/vod/",
+        "group": "normal",
+        "enabled": true,
+        "priority": 9
+    }
+]
