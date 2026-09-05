@@ -6,7 +6,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 1
-    },
+   },
     {
         "id": "HD(TT)",
         "name": "HD(TT)",
@@ -14,7 +14,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 2
-    },
+   },
     {
         "id": "HD(SN)",
         "name": "HD(SN)",
@@ -22,7 +22,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 3
-    },
+   },
     {
         "id": "HD(MD)",
         "name": "HD(MD)",
@@ -30,7 +30,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 4
-    },
+   },
     {
         "id": "HD(FF)",
         "name": "HD(FF)",
@@ -38,7 +38,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 5
-    },
+   },
     {
         "id": "HD(BF)",
         "name": "HD(BF)",
@@ -46,7 +46,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 6
-    },
+   },
     {
         "id": "HD(LY)",
         "name": "HD(LY)",
@@ -54,7 +54,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 7
-    },
+   },
     {
         "id": "HD(OK)",
         "name": "HD(OK)",
@@ -62,7 +62,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 8
-    },
+   },
     {
         "id": "feifan",
         "name": "非凡资源",
@@ -70,7 +70,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 9
-    },
+   },
     {
         "id": "zuida",
         "name": "最大资源",
@@ -78,7 +78,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 10
-    },
+   },
     {
         "id": "baiduyun",
         "name": "百度云资源",
@@ -86,7 +86,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 11
-    },
+   },
     {
         "id": "baofeng"，
         "name": "暴风资源",
@@ -94,7 +94,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 12
-    },
+   },
     {
         "id": "jisu",
         "name": "极速资源",
@@ -102,7 +102,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 13
-    },
+   },
     {
         "id": "tianya",
         "name": "天涯资源",
@@ -110,7 +110,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 14
-    },
+   },
     {
         "id": "wujin",
         "name": "无尽资源",
@@ -118,7 +118,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 15
-    },
+   },
     {
         "id": "modu",
         "name": "魔都资源",
@@ -126,7 +126,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 16
-    },
+   },
     {
         "id": "sanliuling",
         "name": "360资源",
@@ -134,7 +134,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 17
-    },
+   },
     {
         "id": "dytt",
         "name": "电影天堂",
@@ -142,7 +142,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 18
-    },
+   },
     {
         "id": "ruyi",
         "name": "如意资源",
@@ -150,7 +150,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 19
-    },
+   },
     {
         "id": "hongniu",
         "name": "红牛资源",
@@ -158,7 +158,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 20
-    },
+   },
     {
         "id": "guangsu",
         "name": "光速资源",
@@ -166,7 +166,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 21
-    },
+   },
     {
         "id": "ikun",
         "name": "iKun资源",
@@ -174,7 +174,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 22
-    },
+   },
     {
         "id": "xinlang",
         "name": "新浪资源",
@@ -182,7 +182,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 23
-    },
+   },
     {
         "id": "lezi",
         "name": "乐子资源",
@@ -190,7 +190,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 24
-    },
+   },
     {
         "id": "haihua",
         "name": "海豚资源",
@@ -198,7 +198,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 25
-    },
+   },
     {
         "id": "jiangyu",
         "name": "鲸鱼资源",
@@ -206,7 +206,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 26
-    },
+   },
     {
         "id": "feifanapi",
         "name": "非凡API",
@@ -214,7 +214,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 27
-    },
+   },
     {
         "id": "feifancj",
         "name": "非凡采集",
@@ -222,7 +222,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 28
-    },
+   },
     {
         "id": "feifancj2",
         "name": "非凡采集HTTPS",
@@ -230,7 +230,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 29
-    },
+   },
     {
         "id": "wolong2",
         "name": "卧龙采集",
@@ -238,7 +238,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 30
-    },
+   },
     {
         "id": "wujin2",
         "name": "无尽ME",
@@ -246,7 +246,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 31
-    },
+   },
     {
         "id": "tianyazy",
         "name": "天涯海角",
@@ -254,7 +254,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 32
-    },
+   },
     {
         "id": "guangsu2",
         "name": "光速HTTP",
@@ -262,7 +262,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 33
-    },
+   },
     {
         "id": "xinlang2",
         "name": "新浪HTTPS",
@@ -270,7 +270,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 34
-    },
+   },
     {
         "id": "uku88",
         "name": "U酷资源88",
@@ -278,7 +278,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 37
-    },
+   },
     {
         "id": "wujincc",
         "name": "无尽CC",
@@ -286,7 +286,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 38
-    },
+   },
     {
         "id": "yaya",
         "name": "丫丫点播",
@@ -294,7 +294,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 39
-    },
+   },
     {
         "id": "wujinnet",
         "name": "无尽NET",
@@ -302,7 +302,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 40
-    },
+   },
     {
         "id": "zuidame",
         "name": "最大点播",
@@ -310,7 +310,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 41
-    },
+   },
     {
         "id": "yinghua",
         "name": "樱花资源",
@@ -318,7 +318,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 42
-    },
+   },
     {
         "id": "bubugao",
         "name": "步步高资源",
@@ -326,7 +326,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 43
-    },
+   },
     {
         "id": "niuniu",
         "name": "牛牛点播",
@@ -334,7 +334,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 44
-    },
+   },
     {
         "id": "suoni",
         "name": "索尼资源",
@@ -342,7 +342,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 45
-    },
+   },
     {
         "id": "maotai",
         "name": "茅台资源",
@@ -350,7 +350,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 46
-    },
+   },
     {
         "id": "dbzy",
         "name": "豆瓣资源",
@@ -358,7 +358,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 47
-    },
+   },
     {
         "id": "subo",
         "name": "速博资源",
@@ -366,7 +366,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 48
-    },
+   },
     {
         "id": "jinying",
         "name": "金鹰点播",
@@ -374,7 +374,7 @@
         "group": "normal"，
         "enabled": true,
         "priority": 49
-    },
+   },
     {
         "id": "shandian",
         "name": "閃電资源",
@@ -382,7 +382,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 50
-    },
+   },
     {
         "id": "piaoling",
         "name": "飘零资源",
@@ -390,7 +390,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 51
-    },
+   },
     {
         "id": "modudongman",
         "name": "魔都动漫",
@@ -398,7 +398,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 52
-    },
+   },
     {
         "id": "hongniu3",
         "name": "红牛资源3",
@@ -406,7 +406,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 53
-    },
+   },
     {
         "id": "suonisd",
         "name": "索尼-闪电",
@@ -414,7 +414,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 54
-    }, 
+   }, 
     {
         "id": "leba",
         "name": "乐播资源",
@@ -422,7 +422,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 55
-    },
+   },
     {
         "id": "ck",
         "name": "CK",
@@ -430,7 +430,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 56
-    },
+   },
     {
         "id": "jkun",
         "name": "jkun",
@@ -438,7 +438,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 57
-    },
+   },
     {
         "id": "155",
         "name": "155",
@@ -446,7 +446,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 58
-    },
+   },
     {
         "id": "lsb",
         "name": "lsb",
@@ -454,7 +454,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 59
-    },
+   },
     {
         "id": "hsck",
         "name": "黄色仓库",
@@ -462,7 +462,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 60
-    },
+   },
     {
         "id": "yutu",
         "name": "玉兔",
@@ -470,7 +470,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 61
-    },
+   },
     {
         "id": "msnii",
         "name": "美少女资源站",
@@ -478,7 +478,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 62
-    },
+   },
     {
         "id": "xrbsp",
         "name": "淫水机资源站",
@@ -486,7 +486,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 63
-    },
+   },
     {
         "id": "gdlsp",
         "name": "香奶儿资源站",
@@ -494,7 +494,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 64
-    },
+   },
     {
         "id": "kxgav",
         "name": "白嫖资源站",
@@ -502,7 +502,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 65
-    },
+   },
     {
         "id": "pgxdy",
         "name": "黄AV资源站",
@@ -510,7 +510,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 66
-    },
+   },
     {
         "id": "madou",
         "name": "91麻豆",
@@ -518,7 +518,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 67
-    },
+   },
     {
         "id": "aosika",
         "name": "奥斯卡资源",
@@ -526,7 +526,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 68
-    },
+   },
     {
         "id": "senlin",
         "name": "森林资源",
