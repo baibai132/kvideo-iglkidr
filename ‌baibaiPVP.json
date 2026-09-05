@@ -40,20 +40,12 @@
         "priority": 5
     },
     {
-        "id": "HD(DB)",
-        "name": "HD(DB)",
-        "baseUrl": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-        "group": "normal",
-        "enabled": true,
-        "priority": 6
-    },
-    {
         "id": "HD(BF)",
         "name": "HD(BF)",
         "baseUrl": "https://bfzyapi.com/api.php/provide/vod/",
         "group": "normal",
         "enabled": true,
-        "priority": 7
+        "priority": 6
     },
     {
         "id": "HD(LY)",
@@ -61,7 +53,7 @@
         "baseUrl": "https://360zy.com/api.php/provide/vod/at/json",
         "group": "normal",
         "enabled": true,
-        "priority": 8
+        "priority": 7
     },
     {
         "id": "HD(OK)",
@@ -69,6 +61,6 @@
         "baseUrl": "https://api.okzyw.net/api.php/provide/vod/",
         "group": "normal",
         "enabled": true,
-        "priority": 9
+        "priority": 8
     }
 ]
