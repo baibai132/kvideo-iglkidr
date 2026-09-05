@@ -606,7 +606,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 20
-    },
+    }，
     {
         "id": "xiaoji",
         "name": "小鸡资源",
@@ -624,8 +624,5 @@
         "priority": 22
     }
 ]
-全选
-批量下载 (
-0
-)
+
 
