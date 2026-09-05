@@ -8,7 +8,7 @@ baibai132自建添加源:
 
 baibai132自建添加源个人影视:
 
-[https://raw.githubusercontent.com/baibai132/kvideo-iglkidr/refs/heads/main/%E2%80%8Cbaibai1-PVP.json](https://raw.githubusercontent.com/baibai132/kvideo-iglkidr/refs/heads/main/%E2%80%8CbaibaiPVP.json)
+[https://raw.githubusercontent.com/baibai132/kvideo-iglkidr/refs/heads/main/%E2%80%8Cbaibai1-PVP.json](https://raw.githubusercontent.com/baibai132/kvideo-iglkidr/refs/heads/main/%E2%80%8Cbaibai1-PVP.json)
 
 baibaipvp自建添加源个人影视:
 
