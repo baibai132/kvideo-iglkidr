@@ -8,59 +8,347 @@
         "priority": 1
     },
     {
-        "id": "HD(TT)",
-        "name": "HD(TT)",
-        "baseUrl": "https://caiji.dyttzyapi.com/api.php/provide/vod/at/json/",
+        "id": "HD(FF5)",
+        "name": "非凡资源",
+        "baseUrl": "shturl.cc/RHHnskXD70zxQ7OtjUulPg6Np",
         "group": "normal",
         "enabled": true,
         "priority": 2
     },
     {
-        "id": "HD(SN)",
-        "name": "HD(SN)",
-        "baseUrl": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+        "id": "HD(ZUIDA)",
+        "name": "最大资源",
+        "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 3
     },
     {
-        "id": "HD(MD)",
-        "name": "HD(MD)",
-        "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
+        "id": "HD(BDZY)",
+        "name": "百度云资源",
+        "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 4
     },
     {
-        "id": "HD(FF)",
-        "name": "HD(FF)",
-        "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod/",
+        "id": "HD(BF)",
+        "name": "暴风资源",
+        "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 5
     },
     {
-        "id": "HD(BF)",
-        "name": "HD(BF)",
-        "baseUrl": "https://bfzyapi.com/api.php/provide/vod/",
+        "id": "HD(JSZY)",
+        "name": "极速资源",
+        "baseUrl": "https://jszyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 6
     },
     {
-        "id": "HD(LY)",
-        "name": "HD(LY)",
-        "baseUrl": "https://360zy.com/api.php/provide/vod/at/json",
+        "id": "HD(TYYS)",
+        "name": "天涯资源",
+        "baseUrl": "https://tyyszy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 7
     },
     {
-        "id": "HD(OK)",
-        "name": "HD(OK)",
-        "baseUrl": "https://api.okzyw.net/api.php/provide/vod/",
+        "id": "HD(WJ)",
+        "name": "无尽资源",
+        "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 8
+    },
+    {
+        "id": "HD(MD)",
+        "name": "魔都资源",
+        "baseUrl": "shturl.cc/d1I2ggMiOkbGWTONVInI7uObFN4WzBhPz",
+        "group": "normal",
+        "enabled": true,
+        "priority": 9
+    },
+    {
+        "id": "HD(360)",
+        "name": "360资源",
+        "baseUrl": "https://360zy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 10
+    },
+    {
+        "id": "HD(DYTT)",
+        "name": "电影天堂",
+        "baseUrl": "shturl.cc/IowZBXqNL27iwzsV5QmwMRAPnTNdniUMu3mX",
+        "group": "normal",
+        "enabled": true,
+        "priority": 11
+    },
+    {
+        "id": "HD(RY)",
+        "name": "如意资源",
+        "baseUrl": "shturl.cc/JSsHR5oaOAcabwBcJo4NLDI26TVSe6qk",
+        "group": "normal",
+        "enabled": true,
+        "priority": 12
+    },
+    {
+        "id": "HD(HN2)",
+        "name": "红牛资源",
+        "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 13
+    },
+    {
+        "id": "HD(GSU)",
+        "name": "光速资源",
+        "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 14
+    },
+    {
+        "id": "HD(IKUN)",
+        "name": "iKun资源",
+        "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 15
+    },
+    {
+        "id": "HD(XLHTTP)",
+        "name": "新浪资源",
+        "baseUrl": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 16
+    },
+    {
+        "id": "HD(HT)",
+        "name": "海豚资源",
+        "baseUrl": "shturl.cc/XvHi5rsVLzdDwjlNCcpjiE74XY0X3",
+        "group": "normal",
+        "enabled": true,
+        "priority": 17
+    },
+    {
+        "id": "HD(JY)",
+        "name": "鲸鱼资源",
+        "baseUrl": "https://jyzyapi.com/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 18
+    },
+    {
+        "id": "HD(FFAPI)",
+        "name": "非凡API",
+        "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 19
+    },
+    {
+        "id": "HD(FFCJHTTP)",
+        "name": "非凡采集",
+        "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 20
+    },
+    {
+        "id": "HD(FFCJHTTPS)",
+        "name": "非凡采集HTTPS",
+        "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 21
+    },
+    {
+        "id": "HD(WL)",
+        "name": "卧龙采集",
+        "baseUrl": "https://collect.wolongzyw.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 22
+    },
+    {
+        "id": "HD(WJME)",
+        "name": "无尽ME",
+        "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 23
+    },
+    {
+        "id": "HD(TYHJ)",
+        "name": "天涯海角",
+        "baseUrl": "shturl.cc/LBBNRLhhY6inj1lewPMb8erIf0E0tg9",
+        "group": "normal",
+        "enabled": true,
+        "priority": 24
+    },
+    {
+        "id": "HD(GSHTTP)",
+        "name": "光速HTTP",
+        "baseUrl": "http://api.guangsuapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 25
+    },
+    {
+        "id": "HD(XLHTTPS)",
+        "name": "新浪HTTPS",
+        "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 26
+    },
+    {
+        "id": "HD(KU88)",
+        "name": "酷资源88",
+        "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 27
+    },
+    {
+        "id": "HD(WJCC)",
+        "name": "无尽CC",
+        "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 28
+    },
+    {
+        "id": "HD(YY)",
+        "name": "丫丫点播",
+        "baseUrl": "https://cj.yayazy.net/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 29
+    },
+    {
+        "id": "HD(WJNET)",
+        "name": "无尽NET",
+        "baseUrl": "https://api.wujinapi.net/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 30
+    },
+    {
+        "id": "HD(ZUIDAMEI)",
+        "name": "最大点播",
+        "baseUrl": "http://zuidazy.me/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 31
+    },
+    {
+        "id": "HD(YH)",
+        "name": "樱花资源",
+        "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 32
+    },
+    {
+        "id": "HD(BBG)",
+        "name": "步步高资源",
+        "baseUrl": "https://api.yparse.com/api/json",
+        "group": "normal",
+        "enabled": true,
+        "priority": 33
+    },
+    {
+        "id": "HD(NN)",
+        "name": "牛牛点播",
+        "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 34
+    },
+    {
+        "id": "HD(SN)",
+        "name": "索尼资源",
+        "baseUrl": "https://suoniapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 35
+    },
+    {
+        "id": "HD(MT)",
+        "name": "茅台资源",
+        "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 36
+    },
+    {
+        "id": "HD(DB)",
+        "name": "豆瓣资源",
+        "baseUrl": "shturl.cc/PPNFVKBpOpg3SO4AoCmdctnB2",
+        "group": "normal",
+        "enabled": true,
+        "priority": 37
+    },
+    {
+        "id": "HD(SB)",
+        "name": "速博资源",
+        "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 38
+    },
+    {
+        "id": "HD(JYING)",
+        "name": "金鹰点播",
+        "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 39
+    },
+    {
+        "id": "HD(SD)",
+        "name": "闪电资源",
+        "baseUrl": "https://sdzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 40
+    },
+    {
+        "id": "HD(PL)",
+        "name": "飘零资源",
+        "baseUrl": "shturl.cc/CUuQzUCUSO0hCpdLVVxCtuwSNcr",
+        "group": "normal",
+        "enabled": true,
+        "priority": 41
+    },
+    {
+        "id": "HD(MDDM)",
+        "name": "魔都动漫",
+        "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 42
+    },
+    {
+        "id": "HD(HN3)",
+        "name": "红牛资源3",
+        "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 43
+    },
+    {
+        "id": "HD(SNSD)",
+        "name": "索尼‑闪电",
+        "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 44
     }
 ]
